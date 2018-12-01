@@ -6,9 +6,9 @@
     <title>Title Goes Here</title>
     <style>
       .aaa{
-         background: aquamarine;
+         color: aquamarine;
       }
     </style>  
   </head>
 <a href="https://github.com/TROWAL/hello-world/edit/Code/README.md">Codes</a>
-<h1 class="aaa"></h1>
+<h1 class="aaa">Hoi</h1>
